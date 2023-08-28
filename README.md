@@ -1,3 +1,4 @@
+<div style="background-color: #e8f5fb;">
 <div align="center">
   <h1>
     <span style="display: inline-block; animation: animateWord 1.5s ease-in-out infinite;">I</span> 
@@ -81,3 +82,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charchil08&show_icons=true&locale=en" alt="charchil08" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charchil08&" alt="charchil08" /></p>
+</div>
