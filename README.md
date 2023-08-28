@@ -1,4 +1,4 @@
-<div style="background-color: #e8f5fb;">
+<div bgrcolor="#e8f5fb">
 <div align="center">
   <h1>
     <span style="display: inline-block; animation: animateWord 1.5s ease-in-out infinite;">I</span> 
