@@ -84,24 +84,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charchil08&show_icons=true&locale=en" alt="charchil08" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charchil08&" alt="charchil08" /></p>
-
-<style>
-  .animation-word {
-    display: inline-block;
-    animation: animateWord 1.5s ease-in-out infinite;
-  }
-
-  @keyframes animateWord {
-   
-  }
-  .wavy-text {
-  position: relative;
-  display: inline-block;
-  animation: wavyAnimation 2s infinite;
-}
-
-@keyframes wavyAnimation {
-  
-}
-
-</style>
