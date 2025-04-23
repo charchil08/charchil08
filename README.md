@@ -10,7 +10,7 @@
 
 <div align="center">
     <h2>
-        <code class="wavy-text">A full stack developer from India;</code>
+        <code class="wavy-text">AI Software Engineer from India;</code>
     </h2>
 </div>
 
@@ -24,11 +24,13 @@
 
 - 👨‍💻 All of my projects are available at [https://charchil-portfolio.netlify.app/](https://charchil-portfolio.netlify.app/)
 
-- 💬 Ask me about **dotnetcore, angular, sql**
+- 🧠 Currently building: an AI-assisted Campaign Management System using .NET, Azure Functions, and OpenAI APIs.
+
+ - 💬 Ask me about **.NET Core, Azure DevOps, EF Core, CRM integrations, marketing automation, and cloud-native design**
 
 - 📫 How to reach me **er.charchilkajaliya@gmail.com**
 
-- 📄 Know about my experiences [https://charchil-portfolio.netlify.app/Resume-Charchil-Full_Stack_Developer.pdf](https://charchil-portfolio.netlify.app/Resume-Charchil-Full_Stack_Developer.pdf)
+- 📄 Know about my experience in digital marketing platforms, cloud transformation, and AI-driven campaign systems: [My Resume](https://charchil-portfolio.netlify.app/Resume-Charchil-Full_Stack_Developer.pdf)
 
 - ⚡ Fun fact **Mind speaks louder than code**
 
@@ -44,6 +46,14 @@
 <a href="https://www.leetcode.com/charchil08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="charchil08" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/kajaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kajaliya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/charchil08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="charchil08" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Tech I'm Excited About:</h3>
+<p align="center">
+⚙️ Azure App Services & Serverless APIs  
+🧠 Intelligent Agents for Email Personalization  
+📊 Data-driven Campaign Engines using .NET + EF Core  
+🛠 Modular Cloud Platforms & CRM Integrations  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
