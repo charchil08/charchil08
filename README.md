@@ -49,12 +49,10 @@
 </p>
 
 <h3 align="left">Tech I'm Excited About:</h3>
-<p align="center">
-⚙️ Azure App Services & Serverless APIs  
-🧠 Intelligent Agents for Email Personalization  
-📊 Data-driven Campaign Engines using .NET + EF Core  
-🛠 Modular Cloud Platforms & CRM Integrations  
-</p>
+<p align="center">⚙️ Azure App Services & Serverless APIs</p>
+<p align="center">🧠 Intelligent Agents for Email Personalization</p>
+<p align="center">📊 Data-driven Campaign Engines using .NET + EF Core</p>  
+<p align="center">🛠 Modular Cloud Platforms & CRM Integrations</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
