@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://charchil-portfolio.netlify.app/](https://charchil-portfolio.netlify.app/)
 
-- 🧠 Currently building: an AI-assisted Campaign Management System using .NET, Azure Functions, and OpenAI APIs.
+- 🧠 Currently building: an AI-assisted Campaign Management System using React.Js, .NET, Azure Functions, and OpenAI APIs.
 
  - 💬 Ask me about **React.Js, .NET Core, Azure DevOps, EF Core, CRM integrations, marketing automation, and cloud-native design**
 
