@@ -26,7 +26,7 @@
 
 - 🧠 Currently building: an AI-assisted Campaign Management System using .NET, Azure Functions, and OpenAI APIs.
 
- - 💬 Ask me about **.NET Core, Azure DevOps, EF Core, CRM integrations, marketing automation, and cloud-native design**
+ - 💬 Ask me about **React.Js, .NET Core, Azure DevOps, EF Core, CRM integrations, marketing automation, and cloud-native design**
 
 - 📫 How to reach me **er.charchilkajaliya@gmail.com**
 
@@ -51,7 +51,7 @@
 <h3 align="left">Tech I'm Excited About:</h3>
 <p align="center">⚙️ Azure App Services & Serverless APIs</p>
 <p align="center">🧠 Intelligent Agents for Email Personalization</p>
-<p align="center">📊 Data-driven Campaign Engines using .NET + EF Core</p>  
+<p align="center">📊 Data-driven Campaign Engines using React.Js + .NET + EF Core</p>  
 <p align="center">🛠 Modular Cloud Platforms & CRM Integrations</p>
 
 <h3 align="left">Languages and Tools:</h3>
