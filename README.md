@@ -22,7 +22,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charchil08" alt="charchil08" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [https://charchil-portfolio.netlify.app/](https://charchil-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://charchil.dev/](https://charchil.dev/)
 
 - 🧠 Currently building: an AI-assisted Campaign Management System using React.Js, .NET, Azure Functions, and OpenAI APIs.
 
